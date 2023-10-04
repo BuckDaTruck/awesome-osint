@@ -288,7 +288,7 @@ algorithms, knowledgebase and AI technology.
 * [WATools](https://watools.io/)
 * [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
 * [Oblivion](https://github.com/loseys/Oblivion)
-
+* [Intelietechniques](https://inteltechniques.com/tools/Name.html
 ## Social Media Tools
 
 ### [↑](#-table-of-contents) Twitter
